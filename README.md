@@ -1,3 +1,7 @@
+# Frontend Vue Quasar Socket.io Movie Game App
+
+You will find the frontend piece for the movie game.  Written in vue2 and the Quasar framework.   
+
 # Quasar App
 
 > A Quasar project
